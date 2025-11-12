@@ -69,49 +69,49 @@ sorgen-ai/ <br>
 pip install -r requerements.txt
 
 ### Veri Hazırlığı
-# 01_pdf_to_text.ipynb ve 02_text_cleaning.ipynb notebook'larını çalıştır
+01_pdf_to_text.ipynb ve 02_text_cleaning.ipynb notebook'larını çalıştır
 
 ### JSON -> JSONL Dönüşümü
-# 04_json_to_jsonl.ipynb notebook'u
+04_json_to_jsonl.ipynb notebook'u
 
 ### Model Eğitimi (Colab Üzerinde)
-!git clone https://github.com/ilknurongur/sorgen-ai.git
-%cd sorgen-ai
-!pip install transformers datasets accelerate
-ve ardından
-from datasets import load_dataset
-dataset = load_dataset("json", data_files= "data/processed/turkce_questions.jsonl")
+!git clone https://github.com/ilknurongur/sorgen-ai.git <br>
+%cd sorgen-ai <br>
+!pip install transformers datasets accelerate <br>
+ve ardından <br>
+from datasets import load_dataset <br>
+dataset = load_dataset("json", data_files= "data/processed/turkce_questions.jsonl") <br>
 
 ---
 
 # **Gelecek Çalışmalar**
-Diğer derslerin (Matematik, Tarih, Vatandaşlık) eklenmesi
-Soru türlerine göre (paragraf, anlam bilgisi, dil bilgisi) alt etiketleme
-Web arayüzü( Flask/ FastAPI + React) ile kullanıcıdan sınav oluşturma isteği alma
-Modelin Türkçe metin üretim kalitesinin BLEU +ROUGE skorlarıyla ölçülmesi
+Diğer derslerin (Matematik, Tarih, Vatandaşlık) eklenmesi <br>
+Soru türlerine göre (paragraf, anlam bilgisi, dil bilgisi) alt etiketleme <br>
+Web arayüzü( Flask/ FastAPI + React) ile kullanıcıdan sınav oluşturma isteği alma <br>
+Modelin Türkçe metin üretim kalitesinin BLEU +ROUGE skorlarıyla ölçülmesi <br>
 
 # **Yazar**
-İlknur Ongur
-ilknurongur@gmail.com
-Süleymann Demirel Üniversitesi - Bilgisayar Mühendisliği
+İlknur Ongur <br>
+ilknurongur@gmail.com <br>
+Süleymann Demirel Üniversitesi - Bilgisayar Mühendisliği <br>
 
 ---
 
 # **English Summary** 
-SORGEN-AI is an NLP-based fine-tuned model designed to generate exam-style questions similar to Turkish national exams.(ÖSYM)
-The project converts real exam PDFs into text, cleans the data , and fine-tunes the Flan-T5 modle for question generation and comprehension.
+SORGEN-AI is an NLP-based fine-tuned model designed to generate exam-style questions similar to Turkish national exams.(ÖSYM) <br>
+The project converts real exam PDFs into text, cleans the data , and fine-tunes the Flan-T5 modle for question generation and comprehension. <br>
 
 ## **Key Features** 
-Automatically learns the structure of ÖSYM-style Turkish quetions.
-Can generate new questions for selected subjects.
-Supports HuggingFace-compatible JSONL datasets.
-Moduler design: Jupyter (preprocessing) + Colab (training).
+Automatically learns the structure of ÖSYM-style Turkish quetions. <br>
+Can generate new questions for selected subjects. <br>
+Supports HuggingFace-compatible JSONL datasets. <br>
+Moduler design: Jupyter (preprocessing) + Colab (training). <br>
 
 ## **Keywords**
 #NaturelLanguageProcessing #FlanT5 #AIinEducation #NLP #HuggingFace #Python #ÖSYM #OSYM # FineTuning
 
 ## **License**
-This project is open-source under the MIT License.
+This project is open-source under the MIT License. <br>
 Feel free to fork and extend the model foor educationall purposes
 
 
