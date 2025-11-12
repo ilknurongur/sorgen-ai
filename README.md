@@ -1,12 +1,12 @@
 # SORGEN-AI 
-** OSYM Tarzı Soru Üretimi ve Anlama Modeli (Flan-T5 Tabanlı NLP Projesi) **
+** ÖSYM Tarzı Soru Üretimi ve Anlama Modeli (Flan-T5 Tabanlı NLP Projesi) **
 
 ---
 
-## Proje Özeti**
+## **Proje Özeti**
 
-Bu proje **ÖSYM sınav tarzındaki Türkçe soruları** analiz edip benzer nitelikte yeni sorular üretebilen bir yapay zeka modlei geliştirmeyi amaçlar.
-Proje, PDF dosyalarından alınan orijianl sına sorularını metin formatında döndürür, bu verileri temizler ve ardından
+Bu proje **ÖSYM sınav tarzındaki Türkçe soruları** analiz edip benzer nitelikte yeni sorular üretebilen bir yapay zeka modeli geliştirmeyi amaçlar.
+Proje, PDF dosyalarından alınan orijinal sınav sorularını metin formatında döndürür, bu verileri temizler ve ardından
 ** Flan-T5 ** modeli üzerine ince ayar (fine-tuning) yaparak doğal dil anlama/üretme becerisi kazandırır.
 
 **Amaç**
@@ -32,21 +32,21 @@ Modelin, kullanıcıdan aldığı "ders" veya "konu" girdisine göre  Ösym tarz
 
 ## **Proje Dizin Yapısı**
 
-sorgen-ai/
-├── data/
-│ ├── raw/ # Ham PDF verileri
-│ ├── processed/ # Temizlenmiş ve dönüştürülmüş JSON/JSONL dosyaları
-├── notebooks/
-│ ├── 01_pdf_to_text.ipynb
-│ ├── 02_text_cleaning.ipynb
-│ ├── 03_eda_analysis.ipynb
-│ ├── 04_json_to_jsonl.ipynb
-│ └── 05_model_training.ipynb
-├── models/
-│ └── flan_t5_turkce/ # Eğitilmiş model dosyaları
-├── utils/
-│ └── helpers.py # Yardımcı fonksiyonlar (örnek)
-└── README.md
+sorgen-ai/ <br>
+├── data/ <br>
+│ ├── raw/ # Ham PDF verileri <br>
+│ ├── processed/ # Temizlenmiş ve dönüştürülmüş JSON/JSONL dosyaları<br>
+├── notebooks/<br>
+│ ├── 01_pdf_to_text.ipynb<br>
+│ ├── 02_text_cleaning.ipynb<br>
+│ ├── 03_eda_analysis.ipynb<br>
+│ ├── 04_json_to_jsonl.ipynb<br>
+│ └── 05_model_training.ipynb<br>
+├── models/<br>
+│ └── flan_t5_turkce/ # Eğitilmiş model dosyaları<br>
+├── utils/<br>
+│ └── helpers.py # Yardımcı fonksiyonlar (örnek)<br>
+└── README.md<br>
 
 ---
 
