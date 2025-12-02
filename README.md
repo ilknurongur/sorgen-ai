@@ -93,7 +93,7 @@ Modelin Türkçe metin üretim kalitesinin BLEU +ROUGE skorlarıyla ölçülmesi
 # **Yazar**
 İlknur Ongur <br>
 ilknurongur@gmail.com <br>
-Süleymann Demirel Üniversitesi - Bilgisayar Mühendisliği <br>
+Süleymann Demirel Üniversitesi - Bilgisayar Mühendisi <br>
 
 ---
 
