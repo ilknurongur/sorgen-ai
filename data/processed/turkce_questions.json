@@ -1,229 +1,172 @@
 [
     {
         "id": 1,
-        "soru": "Aşağıdaki cümlelerin hangisinde \"ünsüz benzeşmesi\" (sertleşmesi) kuralına uymamaktan \nkaynaklanan bir yazım yanlışı vardır?",
+        "soru": "Aşağıdaki cümlelerin hangisinde \"ünsüz benzeşmesi\" (sertleşmesi) kuralına uymamaktan\nkaynaklanan bir yazım yanlışı vardır?",
         "secenekler": {
-            "A": "Çocuk, annesinin arkasından sessizce bakakaldı.",
-            "B": "Dün akşamki yemekte bize çok samimi \ndavrandı.",
-            "C": "Proje sunumunu ayın 15'inde yapacakmış.",
-            "D": "Bu yokuşu çıkmak gerçekten çok \nzahmetliydi. E) Aldığı kitapcıkları özenle çantasına yerleştirdi."
+            "A": "Çocuk, annesinin arkasından sessizce bakakaldı. B) Dün akşamki yemekte bize çok samimi\ndavrandı. C) Proje sunumunu ayın 15'inde yapacakmış. D) Bu yokuşu çıkmak gerçekten çok\nzahmetliydi. E) Aldığı kitapcıkları özenle çantasına yerleştirdi."
         },
-        "cevap": null
+        "cevap": "E"
     },
     {
         "id": 2,
         "soru": "Aşağıdaki cümlelerin hangisinde \"ki\"nin yazımıyla ilgili bir yanlışlık yapılmıştır?",
         "secenekler": {
-            "A": "Mademki gelmeyecektin, neden bana haber vermedin?",
-            "B": "Evdeki hesap çarşıya uymayınca \nmorali bozuldu.",
-            "C": "Bahçedeki çiçekler o kadar güzeldi ki insan bakmaya doyamıyordu.",
-            "D": "Öyle bir \nan gelirki ne yapacağını bilemezsin. E) Seninki yine ortalığı karıştırmış anlaşılan."
+            "A": "Mademki gelmeyecektin, neden bana haber vermedin? B) Evdeki hesap çarşıya uymayınca\nmorali bozuldu. C) Bahçedeki çiçekler o kadar güzeldi ki insan bakmaya doyamıyordu. D) Öyle bir\nan gelirki ne yapacağını bilemezsin. E) Seninki yine ortalığı karıştırmış anlaşılan."
         },
-        "cevap": null
+        "cevap": "D"
     },
     {
         "id": 3,
         "soru": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı vardır?",
         "secenekler": {
-            "A": "Herhangi bir sorunla karşılaşırsanız bizi arayın.",
-            "B": "Yıllar sonra doğduğu kasabaya, Kuzey Batı \nAnadolu'ya dönmüştü.",
-            "C": "Türk Dil Kurumunun son yayımladığı sözlüğü inceledim.",
-            "D": "Olan biteni \nayakta bir bir anlattı. E) Bu olayın onu terk ettiğin için yaşandığını sanmıyorum."
+            "A": "Herhangi bir sorunla karşılaşırsanız bizi arayın. B) Yıllar sonra doğduğu kasabaya, Kuzey Batı\nAnadolu'ya dönmüştü. C) Türk Dil Kurumunun son yayımladığı sözlüğü inceledim. D) Olan biteni\nayakta bir bir anlattı. E) Bu olayın onu terk ettiğin için yaşandığını sanmıyorum."
         },
-        "cevap": null
+        "cevap": "B"
     },
     {
         "id": 4,
         "soru": "Aşağıdaki cümlelerin hangisinde virgül (,) diğerlerinden farklı bir görevde kullanılmıştır?",
         "secenekler": {
-            "A": "Akşam yemeğini hazırladı, sofrayı kurdu, çocuklarını beklemeye başladı.",
-            "B": "Genç adam, kadının\nsöylediklerini sessizce dinledi.",
-            "C": "Rüzgâr uğulduyor, yağmur şiddetle yağıyor, şimşekler çakıyordu.",
+            "A": "Akşam yemeğini hazırladı, sofrayı kurdu, çocuklarını beklemeye başladı. B) Genç adam, kadının\nsöylediklerini sessizce dinledi. C) Rüzgâr uğulduyor, yağmur şiddetle yağıyor, şimşekler çakıyordu.",
             "D": "Evi temizledi, ütüyü yaptı, alışverişe çıktı. E) Odaya girdi, paltosunu astı, koltuğa oturdu."
         },
-        "cevap": null
+        "cevap": "B"
     },
     {
         "id": 5,
-        "soru": "(I) Yeni bir şehir, yeni bir hayat demekti onun için. (II) Geçmişin izlerini silmek, her şeye \nyeniden başlamak istiyordu. (III) Bu yüzden, kimseye haber vermeden küçük bir sahil kasabasına \ntaşındı. (IV) Burada insanlar birbirini tanıyor, herkes birbirine yardım ediyordu. (V) Kısa sürede bu \nsıcak ortama alıştı ve kendini buraya ait hissetti.\nBu parçada numaralanmış cümlelerle ilgili aşağıdakilerden hangisi yanlıştır?",
+        "soru": "(I) Yeni bir şehir, yeni bir hayat demekti onun için. (II) Geçmişin izlerini silmek, her şeye\nyeniden başlamak istiyordu. (III) Bu yüzden, kimseye haber vermeden küçük bir sahil kasabasına\ntaşındı. (IV) Burada insanlar birbirini tanıyor, herkes birbirine yardım ediyordu. (V) Kısa sürede bu\nsıcak ortama alıştı ve kendini buraya ait hissetti.\nBu parçada numaralanmış cümlelerle ilgili aşağıdakilerden hangisi yanlıştır?",
         "secenekler": {
-            "A": "I. cümle, isim cümlesidir.",
-            "B": "II. cümle, içinde fiilimsi bulunan bir cümledir.",
-            "C": "III. cümle, devrik\nbir cümledir.",
-            "D": "IV . cümle, sıralı bir cümledir. E) V . cümle, yapısına göre basit bir cümledir."
+            "A": "I. cümle, isim cümlesidir. B) II. cümle, içinde fiilimsi bulunan bir cümledir. C) III. cümle, devrik\nbir cümledir. D) IV . cümle, sıralı bir cümledir. E) V . cümle, yapısına göre basit bir cümledir."
         },
-        "cevap": null
+        "cevap": "C"
     },
     {
         "id": 6,
         "soru": "Aşağıdaki cümlelerin hangisinde \"adlaşmış sıfat\" kullanılmıştır?",
         "secenekler": {
-            "A": "Eski eşyaları çatı katındaki sandığa kaldırdı.",
-            "B": "Yaralı, sedyeyle hastanenin acil servisine \ngötürüldü.",
-            "C": "Kırık cam parçaları etrafa saçılmıştı.",
-            "D": "Çalışkan insanlar her zaman hedeflerine \nulaşır. E) Yazar, son romanında akıcı bir dil kullanmış."
+            "A": "Eski eşyaları çatı katındaki sandığa kaldırdı. B) Yaralı, sedyeyle hastanenin acil servisine\ngötürüldü. C) Kırık cam parçaları etrafa saçılmıştı. D) Çalışkan insanlar her zaman hedeflerine\nulaşır. E) Yazar, son romanında akıcı bir dil kullanmış."
         },
-        "cevap": null
+        "cevap": "B"
     },
     {
         "id": 7,
-        "soru": "Aşağıdaki cümlelerin hangisinde altı çizili sözcük, kökünün türü bakımından diğerlerinden \nfarklıdır?",
+        "soru": "Aşağıdaki cümlelerin hangisinde altı çizili sözcük, kökünün türü bakımından diğerlerinden\nfarklıdır?",
         "secenekler": {
-            "A": "Konferansın sonunda dinleyicilerin sorularını yanıtladı.",
-            "B": "Gökyüzü aniden karararak şiddetli \nbir yağmur başladı.",
-            "C": "Yaşadığı acılar onu olgunlaştırmıştı.",
-            "D": "İki ülke arasında önemli bir \nantlaşma imzalandı. E) Bahçedeki kurumuş otları temizlemek gerekiyordu."
+            "A": "Konferansın sonunda dinleyicilerin sorularını yanıtladı. B) Gökyüzü aniden karararak şiddetli\nbir yağmur başladı. C) Yaşadığı acılar onu olgunlaştırmıştı. D) İki ülke arasında önemli bir\nantlaşma imzalandı. E) Bahçedeki kurumuş otları temizlemek gerekiyordu."
         },
-        "cevap": null
+        "cevap": "C"
     },
     {
         "id": 8,
-        "soru": "Aşağıdaki cümlelerin hangisi özne-yüklem ilişkisi (çatı) bakımından diğerlerinden \nfarklıdır?",
+        "soru": "Aşağıdaki cümlelerin hangisi özne-yüklem ilişkisi (çatı) bakımından diğerlerinden\nfarklıdır?",
         "secenekler": {
-            "A": "Toplantıda önemli kararlar alındı.",
-            "B": "Yollar, belediye ekiplerince sabaha karşı temizlendi.",
-            "C": "Kaybolan cüzdan, güvenlik görevlisi tarafından bulundu.",
-            "D": "Depremzedeler için acil yardım \nçadırları kuruldu. E) Çocuk, yere düşen oyuncağına üzüntüyle bakındı./n"
+            "A": "Toplantıda önemli kararlar alındı. B) Yollar, belediye ekiplerince sabaha karşı temizlendi. C)\nKaybolan cüzdan, güvenlik görevlisi tarafından bulundu. D) Depremzedeler için acil yardım\nçadırları kuruldu. E) Çocuk, yere düşen oyuncağına üzüntüyle bakındı."
         },
-        "cevap": null
+        "cevap": "E"
     },
     {
         "id": 9,
         "soru": "Aşağıdaki cümlelerin hangisinde \"için\" edatı cümleye \"amaç\" anlamı katmıştır?",
         "secenekler": {
-            "A": "Yağmur yağdığı için pikniği ertelemek zorunda kaldık.",
-            "B": "Sınavı kazanmak için gecesini \ngündüzüne kattı.",
-            "C": "Bu kadar küçük bir hediye için bana teşekkür etmene gerek yok.",
-            "D": "Benim için \nbu konunun ne kadar önemli olduğunu biliyorsun. E) O hasta olduğu için bugün işe gelemedi."
+            "A": "Yağmur yağdığı için pikniği ertelemek zorunda kaldık. B) Sınavı kazanmak için gecesini\ngündüzüne kattı. C) Bu kadar küçük bir hediye için bana teşekkür etmene gerek yok. D) Benim için\nbu konunun ne kadar önemli olduğunu biliyorsun. E) O hasta olduğu için bugün işe gelemedi."
         },
-        "cevap": null
+        "cevap": "B"
     },
     {
         "id": 10,
-        "soru": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+        "soru": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?/nA) Ekonomik kriz, sadece bizi değil, tüm dünyayı etkiledi. B) Bu sorunu çözmek için herkesin\ngörüşüne saygı duyulmalı ve dinlenmelidir. C) Yazarın dili oldukça ağır, bu yüzden anlaşılması güç\noluyor. D) Başarılı olmak istiyorsan düzenli ve planlı çalışmalısın. E) Ne sen beni anladın ne de ben\nseni anlatabildim.\nCevap:B",
         "secenekler": {
-            "A": "Ekonomik kriz, sadece bizi değil, tüm dünyayı etkiledi.",
-            "B": "Bu sorunu çözmek için herkesin \ngörüşüne saygı duyulmalı ve dinlenmelidir.",
-            "C": "Yazarın dili oldukça ağır, bu yüzden anlaşılması güç \noluyor.",
-            "D": "Başarılı olmak istiyorsan düzenli ve planlı çalışmalısın. E) Ne sen beni anladın ne de ben\nseni anlatabildim."
+            "A": "Ekonomik kriz, sadece bizi değil, tüm dünyayı etkiledi. B) Bu sorunu çözmek için herkesin\ngörüşüne saygı duyulmalı ve dinlenmelidir. C) Yazarın dili oldukça ağır, bu yüzden anlaşılması güç\noluyor. D) Başarılı olmak istiyorsan düzenli ve planlı çalışmalısın. E) Ne sen beni anladın ne de ben\nseni anlatabildim."
         },
-        "cevap": null
+        "cevap": "B"
     },
     {
         "id": 11,
-        "soru": "Edebiyat, hayatın çamurlu yollarında yürürken ayağımıza bulaşan tozu toprağı estetik bir dille \ntemizleme sanatıdır. O, gerçeği ---- bir ayna değil, gerçeği yeniden ---- bir potadır.\nBu parçada boş bırakılan yerlere düşüncenin akışına göre sırasıyla aşağıdakilerden hangileri \ngetirilmelidir?",
+        "soru": "Edebiyat, hayatın çamurlu yollarında yürürken ayağımıza bulaşan tozu toprağı estetik bir dille\ntemizleme sanatıdır. O, gerçeği ---- bir ayna değil, gerçeği yeniden ---- bir potadır.\nBu parçada boş bırakılan yerlere düşüncenin akışına göre sırasıyla aşağıdakilerden hangileri\ngetirilmelidir?",
         "secenekler": {
-            "A": "yansıtan - şekillendiren",
-            "B": "gösteren - unutturan",
-            "C": "gizleyen - ortaya çıkaran",
-            "D": "değiştiren - \nsavunan E) anlatan - özetleyen"
+            "A": "yansıtan - şekillendiren B) gösteren - unutturan C) gizleyen - ortaya çıkaran D) değiştiren -\nsavunan E) anlatan – özetleyen"
         },
-        "cevap": null
+        "cevap": "A"
     },
     {
         "id": 12,
-        "soru": "Aşağıdaki cümlelerin hangisi kanıtlanabilirlik (nesnellik-öznellik) açısından diğerlerinden \nfarklıdır?",
+        "soru": "Aşağıdaki cümlelerin hangisi kanıtlanabilirlik (nesnellik-öznellik) açısından diğerlerinden\nfarklıdır?",
         "secenekler": {
-            "A": "Yazarın son romanı, 300 sayfadan oluşuyor ve dört bölüm halinde tasarlanmış.",
-            "B": "Şairin bu \netkileyici şiiri, okuyucuyu derinden sarsıyor.",
-            "C": "Türkiye'nin en yüksek dağı olan Ağrı Dağı, Doğu \nAnadolu Bölgesi'ndedir.",
-            "D": "Film,"
+            "A": "Yazarın son romanı, 300 sayfadan oluşuyor ve dört bölüm halinde tasarlanmış. B) Şairin bu\netkileyici şiiri, okuyucuyu derinden sarsıyor. C) Türkiye'nin en yüksek dağı olan Ağrı Dağı, Doğu\nAnadolu Bölgesi'ndedir. D) Film,"
         },
         "cevap": null
     },
     {
         "id": 13,
-        "soru": "yüzyıl İngiltere'sinde geçen bir aşk hikâyesini konu alıyor. E) \nİstatistiklere göre, son on yılda okur-yazar oranı %15 artmıştır.",
-        "secenekler": {},
-        "cevap": null
+        "soru": "yüzyıl İngiltere'sinde geçen bir aşk hikâyesini konu alıyor. E)\nİstatistiklere göre, son on yılda okur-yazar oranı %15 artmıştır.\nCevap:B",
+        "secenekler": {
+            "E": "İstatistiklere göre, son on yılda okur-yazar oranı %15 artmıştır."
+        },
+        "cevap": "B"
     },
     {
         "id": 14,
-        "soru": "(I) Şehirleşmeyle birlikte doğadan kopuşumuz hızlandı. (II) Artık gökyüzünü görmek için \nbinaların arasından küçük bir boşluk arıyoruz. (III) Toprağa basmanın, bir ağaca dokunmanın \niyileştirici gücünü unuttuk. (IV) Oysa doğa, insanın fabrika ayarlarına dönmesi için en güçlü şifadır.\n(V) Psikologlar, doğada geçirilen zamanın stresi azalttığını ve yaratıcılığı artırdığını belirtiyor. (VI) \nBu nedenle, fırsat buldukça kendimizi yeşilin kucağına atmalıyız.\nBu parça iki paragrafa ayrılmak istense ikinci paragraf numaralanmış cümlelerin hangisiyle \nbaşlar?",
+        "soru": "(I) Şehirleşmeyle birlikte doğadan kopuşumuz hızlandı. (II) Artık gökyüzünü görmek için\nbinaların arasından küçük bir boşluk arıyoruz. (III) Toprağa basmanın, bir ağaca dokunmanın\niyileştirici gücünü unuttuk. (IV) Oysa doğa, insanın fabrika ayarlarına dönmesi için en güçlü şifadır.\n(V) Psikologlar, doğada geçirilen zamanın stresi azalttığını ve yaratıcılığı artırdığını belirtiyor. (VI)\nBu nedenle, fırsat buldukça kendimizi yeşilin kucağına atmalıyız.\nBu parça iki paragrafa ayrılmak istense ikinci paragraf numaralanmış cümlelerin hangisiyle\nbaşlar?",
         "secenekler": {
-            "A": "II",
-            "B": "III",
-            "C": "IV",
-            "D": "V E) VI"
+            "A": "II B) III C) IV D) V E) VI"
         },
-        "cevap": null
+        "cevap": "C"
     },
     {
         "id": 15,
-        "soru": "(I) Yapay zekâ, günümüz teknolojisinin en çok tartışılan konularından biri. (II) Kimileri onu \ninsanlığın sonunu getirecek bir tehdit olarak görürken, kimileri de yaşam kalitemizi artıracak bir \nfırsat olarak değerlendiriyor. (III) Tarih boyunca her teknolojik yenilik, benzer kaygıları ve umutları\nberaberinde getirmiştir. (IV) Yapay zekânın öğrenme hızı, insan kapasitesinin çok üzerindedir. (V) \nÖnemli olan, bu gücü nasıl yönlendireceğimizi belirlemek ve etik kuralları sağlam bir temele \noturtmaktır.\nBu parçada numaralanmış cümlelerden hangisi düşüncenin akışını bozmaktadır?",
+        "soru": "(I) Yapay zekâ, günümüz teknolojisinin en çok tartışılan konularından biri. (II) Kimileri onu\ninsanlığın sonunu getirecek bir tehdit olarak görürken, kimileri de yaşam kalitemizi artıracak bir\nfırsat olarak değerlendiriyor. (III) Tarih boyunca her teknolojik yenilik, benzer kaygıları ve umutları\nberaberinde getirmiştir. (IV) Yapay zekânın öğrenme hızı, insan kapasitesinin çok üzerindedir. (V)\nÖnemli olan, bu gücü nasıl yönlendireceğimizi belirlemek ve etik kuralları sağlam bir temele\noturtmaktır.\nBu parçada numaralanmış cümlelerden hangisi düşüncenin akışını bozmaktadır?",
         "secenekler": {
-            "A": "I",
-            "B": "II",
-            "C": "III",
-            "D": "IV E) V"
+            "A": "I B) II C) III D) IV E) V"
         },
-        "cevap": null
+        "cevap": "D"
     },
     {
         "id": 16,
-        "soru": "Dijitalleşme, bilgiye erişimi inanılmaz ölçüde kolaylaştırdı. Artık bir kütüphanede haftalarca \naraştırma yapmayı gerektirecek bilgilere saniyeler içinde ulaşabiliyoruz. Ancak bu kolaylık, bir /n\"bilgi obezitesi\" sorununu da beraberinde getirdi. Bilgiyi tüketiyor ama sindiremiyoruz. Bilgiyi \nderinlemesine analiz etmek, eleştirel bir süzgeçten geçirmek yerine, yüzeysel bir şekilde \"tıklayıp \ngeçiyoruz\". Bu durum, bilgeliğe giden yolu uzatıyor; çünkü bilgelik, çok bilmek değil, bilineni \nözümsemektir.\nBu parçada \"dijitalleşme\" ile ilgili asıl vurgulanmak istenen aşağıdakilerden hangisidir?",
+        "soru": "Dijitalleşme, bilgiye erişimi inanılmaz ölçüde kolaylaştırdı. Artık bir kütüphanede haftalarca\naraştırma yapmayı gerektirecek bilgilere saniyeler içinde ulaşabiliyoruz. Ancak bu kolaylık, \nbir\"bilgi obezitesi\" sorununu da beraberinde getirdi. Bilgiyi tüketiyor ama sindiremiyoruz. Bilgiyi\nderinlemesine analiz etmek, eleştirel bir süzgeçten geçirmek yerine, yüzeysel bir şekilde \"tıklayıp\ngeçiyoruz\". Bu durum, bilgeliğe giden yolu uzatıyor; çünkü bilgelik, çok bilmek değil, bilineni\nözümsemektir.\nBu parçada \"dijitalleşme\" ile ilgili asıl vurgulanmak istenen aşağıdakilerden hangisidir?",
         "secenekler": {
-            "A": "Bilgiye erişim hızının artmasının olumlu sonuçları",
-            "B": "Geleneksel kütüphanecilik anlayışını \ndeğiştirdiği",
-            "C": "Bilgiyi derinlemesine işlemeden yüzeysel tüketmeye yol açması",
-            "D": "İnsanlar \narasındaki bilgi eşitsizliğini azalttığı E) Bilgi obezitesinin psikolojik sorunlara neden olduğu"
+            "A": "Bilgiye erişim hızının artmasının olumlu sonuçları B) Geleneksel kütüphanecilik anlayışını\ndeğiştirdiği C) Bilgiyi derinlemesine işlemeden yüzeysel tüketmeye yol açması D) İnsanlar\narasındaki bilgi eşitsizliğini azalttığı E) Bilgi obezitesinin psikolojik sorunlara neden olduğu"
         },
-        "cevap": null
+        "cevap": "C"
     },
     {
         "id": 17,
         "soru": "Aynı parçaya göre, \"bilgelik\" aşağıdakilerden hangisiyle tanımlanmıştır?",
         "secenekler": {
-            "A": "Çok fazla bilgiye sahip olmak",
-            "B": "Bilgiye hızlıca ulaşabilmek",
-            "C": "Teknolojik gelişmeleri yakından\ntakip etmek",
-            "D": "Edinilen bilgiyi içselleştirmek ve anlamlandırmak E) Bilgiyi eleştirmeden kabul \netmek\nİki Şehrin Hikâyesi\", Charles Dickens'ın belki de en bilinen eseridir. Roman, Fransız Devrimi \nsırasında Paris ve Londra'da geçer. Dickens, bu eserinde devrimin yarattığı kaosu, toplumsal \nadaletsizliği ve bireylerin bu çalkantılı dönemdeki fedakârlıklarını ustaca işler. Romanın \"En iyi \nzamanlardı, en kötü zamanlardı...\" diye başlayan açılış cümlesi, dönemin çelişkilerini özetler \nniteliktedir. Eser, tarihsel bir arka planı kullanmasına rağmen, aslında zamanı aşan temalara; \nsevgiye, nefrete, fedakârlığa ve yeniden doğuşa odaklanır. Bu yüzden, yazıldığı tarihten yüz yıldan \nfazla geçmiş olmasına rağmen güncelliğini korumaktadır."
+            "A": "Çok fazla bilgiye sahip olmak B) Bilgiye hızlıca ulaşabilmek C) Teknolojik gelişmeleri yakından\ntakip etmek D) Edinilen bilgiyi içselleştirmek ve anlamlandırmak E) Bilgiyi eleştirmeden kabul\netmek/nCevap:D\nİki Şehrin Hikâyesi\", Charles Dickens'ın belki de en bilinen eseridir. Roman, Fransız Devrimi\nsırasında Paris ve Londra'da geçer. Dickens, bu eserinde devrimin yarattığı kaosu, toplumsal\nadaletsizliği ve bireylerin bu çalkantılı dönemdeki fedakârlıklarını ustaca işler. Romanın \"En iyi\nzamanlardı, en kötü zamanlardı...\" diye başlayan açılış cümlesi, dönemin çelişkilerini özetler\nniteliktedir. Eser, tarihsel bir arka planı kullanmasına rağmen, aslında zamanı aşan temalara;\nsevgiye, nefrete, fedakârlığa ve yeniden doğuşa odaklanır. Bu yüzden, yazıldığı tarihten yüz yıldan\nfazla geçmiş olmasına rağmen güncelliğini korumaktadır."
         },
-        "cevap": null
+        "cevap": "D"
     },
     {
         "id": 18,
         "soru": "Bu parçadan \"İki Şehrin Hikâyesi\" ile ilgili aşağıdakilerden hangisine ulaşılamaz?",
         "secenekler": {
-            "A": "Hangi tarihsel olayı fon olarak kullandığına",
-            "B": "Yazarının en başarılı eseri olduğuna",
-            "C": "Evrensel \nkonuları ele aldığına",
-            "D": "İçeriğini özetleyen meşhur bir açılış cümlesi olduğuna E) Farklı iki şehirde \ngeçtiğine"
+            "A": "Hangi tarihsel olayı fon olarak kullandığına B) Yazarının en başarılı eseri olduğuna C) Evrensel\nkonuları ele aldığına D) İçeriğini özetleyen meşhur bir açılış cümlesi olduğuna E) Farklı iki şehirde\ngeçtiğine"
         },
-        "cevap": null
+        "cevap": "B"
     },
     {
         "id": 19,
         "soru": "Bu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
         "secenekler": {
-            "A": "Açıklama",
-            "B": "Tartışma",
-            "C": "Betimleme",
-            "D": "Öyküleme E) Tanık Gösterme"
+            "A": "Açıklama B) Tartışma C) Betimleme D) Öyküleme E) Tanık Gösterme"
         },
-        "cevap": null
+        "cevap": "A"
     },
     {
         "id": 20,
-        "soru": "(I) Sabahın erken saatleri, zihnimin en berrak olduğu anlardır. (II) Güneşin doğuşunu izlerken, \ngünün getireceği telaştan uzak bir sükûnet bulurum. (III) Bir fincan kahve eşliğinde okuduğum \nkitaplar, bana farklı dünyaların kapılarını aralar. (IV) Gün içinde ise işlerin yoğunluğu bu sükûneti \nalıp götürür. (V) Bu yüzden, sabah ritüellerimi hiç kimsenin bozmasına izin vermem.\nBu parçada numaralanmış cümlelerin hangisinde \"neden-sonuç\" ilişkisi vardır?",
+        "soru": "(I) Sabahın erken saatleri, zihnimin en berrak olduğu anlardır. (II) Güneşin doğuşunu izlerken,\ngünün getireceği telaştan uzak bir sükûnet bulurum. (III) Bir fincan kahve eşliğinde okuduğum\nkitaplar, bana farklı dünyaların kapılarını aralar. (IV) Gün içinde ise işlerin yoğunluğu bu sükûneti\nalıp götürür. (V) Bu yüzden, sabah ritüellerimi hiç kimsenin bozmasına izin vermem.\nBu parçada numaralanmış cümlelerin hangisinde \"neden-sonuç\" ilişkisi vardır?",
         "secenekler": {
-            "A": "I",
-            "B": "II",
-            "C": "III",
-            "D": "IV E) V"
+            "A": "I B) II C) III D) IV E) V"
         },
-        "cevap": null
+        "cevap": "E"
     },
     {
         "id": 21,
-        "soru": "İnternetin ilk yıllarında, küresel bir köy yaratacağı ve farklı kültürler arasındaki anlayışı \nartıracağı yönünde yaygın bir iyimserlik hâkimdi. Bilgiye erişimin demokratikleşmesi, sansürün \naşılması ve insanların coğrafi sınırları aşan diyaloglar kurması bekleniyordu. Ancak, geldiğimiz \nnoktada bu iyimserliğin büyük ölçüde sarsıldığını görüyoruz. Özellikle sosyal medya \nplatformlarının yükselişiyle birlikte, algoritmik olarak yönetilen \"yankı odaları\" ve \"filtre balonları\"\nortaya çıktı. Bu yapılar, kullanıcıların mevcut inançlarını pekiştiren içerikleri sürekli olarak \nkarşılarına çıkarırken, farklı veya karşıt görüşleri görünmez kılıyor. Bireyler, kendi düşüncelerinin \nevrensel olarak kabul gördüğü bir yanılsama içine giriyor ve bu durum, toplumsal polarizasyonun /n(kutuplaşmanın) tehlikeli bir şekilde artmasına zemin hazırlıyor. Bilgiye erişimimiz arttı, ancak bu \nbilgiyi işleme ve farklı perspektiflerle diyalog kurma becerimiz aynı oranda gelişmedi; aksine, \nteknoloji bizi dijital kabilelere ayırdı.\nBu parçada dijital medya ve algoritmalarla ilgili asıl vurgulanmak istenen aşağıdakilerden \nhangisidir?",
+        "soru": "İnternetin ilk yıllarında, küresel bir köy yaratacağı ve farklı kültürler arasındaki anlayışı\nartıracağı yönünde yaygın bir iyimserlik hâkimdi. Bilgiye erişimin demokratikleşmesi, sansürün\naşılması ve insanların coğrafi sınırları aşan diyaloglar kurması bekleniyordu. Ancak, geldiğimiz\nnoktada bu iyimserliğin büyük ölçüde sarsıldığını görüyoruz. Özellikle sosyal medya\nplatformlarının yükselişiyle birlikte, algoritmik olarak yönetilen \"yankı odaları\" ve \"filtre balonları\"\nortaya çıktı. Bu yapılar, kullanıcıların mevcut inançlarını pekiştiren içerikleri sürekli olarak\nkarşılarına çıkarırken, farklı veya karşıt görüşleri görünmez kılıyor. Bireyler, kendi düşüncelerinin\nevrensel olarak kabul gördüğü bir yanılsama içine giriyor ve bu durum, toplumsal \npolarizasyonun(kutuplaşmanın) tehlikeli bir şekilde artmasına zemin hazırlıyor. Bilgiye erişimimiz \narttı, ancak bu\nbilgiyi işleme ve farklı perspektiflerle diyalog kurma becerimiz aynı oranda gelişmedi; aksine,\nteknoloji bizi dijital kabilelere ayırdı.\nBu parçada dijital medya ve algoritmalarla ilgili asıl vurgulanmak istenen aşağıdakilerden\nhangisidir?",
         "secenekler": {
-            "A": "İnternetin, yaratıcılarının hedeflediği küresel anlayış hedefine ulaştığı",
-            "B": "Bilgiye erişimdeki \nkolaylığın, toplumsal eğitim seviyesini yükselttiği",
-            "C": "Sosyal medyanın, bireyleri farklı görüşlerden \nizole ederek toplumsal kutuplaşmayı derinleştirdiği",
-            "D": "Filtre balonlarının, kullanıcıların eleştirel \ndüşünme becerilerini geliştirmelerine yardımcı olduğu E) Sansürü aşma konusunda internetin hâlâ \nen etkili araç olduğu\n("
+            "A": "İnternetin, yaratıcılarının hedeflediği küresel anlayış hedefine ulaştığı B) Bilgiye erişimdeki\nkolaylığın, toplumsal eğitim seviyesini yükselttiği C) Sosyal medyanın, bireyleri farklı görüşlerden\nizole ederek toplumsal kutuplaşmayı derinleştirdiği D) Filtre balonlarının, kullanıcıların eleştirel\ndüşünme becerilerini geliştirmelerine yardımcı olduğu E) Sansürü aşma konusunda internetin hâlâ\nen etkili araç olduğu"
         },
-        "cevap": null
+        "cevap": "C"
     },
     {
         "id": 22,
@@ -233,7 +176,7 @@
     },
     {
         "id": 23,
-        "soru": "soruları aşağıdaki parçaya göre cevaplayınız.)\nRomanı, basitçe \"yaşanmış ya da yaşanması mümkün olayları anlatan bir tür\" olarak tanımlamak, \nonun gücünü ve felsefi derinliğini göz ardı etmektir. Roman, yalnızca bir hikâye anlatıcısı değil, \naynı zamanda bir bilgi biçimidir; ancak bu bilgi, tarihsel anlatının sunduğu olgusal doğruluktan \nfarklıdır. Tarih bize \"ne olduğunu\" söylerken, roman bize \"ne olabileceğini\" ve \"olana karşı ne \nhissedilebileceğini\" gösterir. O, insan varoluşunun karmaşık ve çelişkili doğasını keşfetmek için bir \nlaboratuvardır. Bir karakterin iç dünyasına girdiğimizde, kendi hayatımızda karşılaşmadığımız \nahlaki ikilemlerle yüzleşir, başka türlü edinemeyeceğimiz bir empati yeteneği geliştiririz. \nDolayısıyla romanın hakikati, istatistiksel verilerde veya kronolojik sıralamalarda değil, bireyin en \nmahrem deneyimlerinin evrenselleştirilmesinde yatar. O, gerçeği taklit etmez; gerçeğin daha derin \nbir katmanını, yani \"insani gerçeği\" yeniden inşa eder.",
+        "soru": "soruları aşağıdaki parçaya göre cevaplayınız.)\nRomanı, basitçe \"yaşanmış ya da yaşanması mümkün olayları anlatan bir tür\" olarak tanımlamak,\nonun gücünü ve felsefi derinliğini göz ardı etmektir. Roman, yalnızca bir hikâye anlatıcısı değil,\naynı zamanda bir bilgi biçimidir; ancak bu bilgi, tarihsel anlatının sunduğu olgusal doğruluktan\nfarklıdır. Tarih bize \"ne olduğunu\" söylerken, roman bize \"ne olabileceğini\" ve \"olana karşı ne\nhissedilebileceğini\" gösterir. O, insan varoluşunun karmaşık ve çelişkili doğasını keşfetmek için bir\nlaboratuvardır. Bir karakterin iç dünyasına girdiğimizde, kendi hayatımızda karşılaşmadığımız\nahlaki ikilemlerle yüzleşir, başka türlü edinemeyeceğimiz bir empati yeteneği geliştiririz.\nDolayısıyla romanın hakikati, istatistiksel verilerde veya kronolojik sıralamalarda değil, bireyin en/nmahrem deneyimlerinin evrenselleştirilmesinde yatar. O, gerçeği taklit etmez; gerçeğin daha derin\nbir katmanını, yani \"insani gerçeği\" yeniden inşa eder.",
         "secenekler": {},
         "cevap": null
     },
@@ -241,304 +184,24 @@
         "id": 24,
         "soru": "Bu parçadan romanla ilgili aşağıdakilerden hangisi çıkarılamaz?",
         "secenekler": {
-            "A": "İnsanın varoluşsal durumlarını incelemek için bir araç olduğu",
-            "B": "Okurda empati duygusunun \ngelişmesine katkı sağladığı",
-            "C": "Olayları, tarihsel bir metnin bağlı olduğu gerçeklik kaygısıyla \naktardığı",
-            "D": "Yaşanmış olaylardan çok, yaşanabilecek olasılıklar üzerinde durduğu E) Felsefi bir \nderinliğe sahip olan özel bir bilgi biçimi olduğu"
+            "A": "İnsanın varoluşsal durumlarını incelemek için bir araç olduğu B) Okurda empati duygusunun\ngelişmesine katkı sağladığı C) Olayları, tarihsel bir metnin bağlı olduğu gerçeklik kaygısıyla\naktardığı D) Yaşanmış olaylardan çok, yaşanabilecek olasılıklar üzerinde durduğu E) Felsefi bir\nderinliğe sahip olan özel bir bilgi biçimi olduğu"
         },
-        "cevap": null
+        "cevap": "C"
     },
     {
         "id": 25,
-        "soru": "Bu parçaya göre romanı \"tarihsel anlatı\"dan ayıran temel özellik aşağıdakilerden \nhangisidir?",
+        "soru": "Bu parçaya göre romanı \"tarihsel anlatı\"dan ayıran temel özellik aşağıdakilerden\nhangisidir?",
         "secenekler": {
-            "A": "Olgusal doğruluğa bağlı kalmak yerine, insani deneyimin özüne ve olasılıklara odaklanması",
-            "B": "Geçmişte yaşanmış olayları kronolojik bir sırayla sunması",
-            "C": "Karakterlerin iç dünyasını \nyansıtmaktan bilinçli olarak kaçınması",
-            "D": "İstatistiksel verilerden ve kanıtlanabilir bilgilerden \nyararlanması E) Okuyucuya ahlaki dersler verme amacı gütmesi"
+            "A": "Olgusal doğruluğa bağlı kalmak yerine, insani deneyimin özüne ve olasılıklara odaklanması B)\nGeçmişte yaşanmış olayları kronolojik bir sırayla sunması C) Karakterlerin iç dünyasını\nyansıtmaktan bilinçli olarak kaçınması D) İstatistiksel verilerden ve kanıtlanabilir bilgilerden\nyararlanması E) Okuyucuya ahlaki dersler verme amacı gütmesi"
         },
-        "cevap": null
+        "cevap": "A"
     },
     {
         "id": 26,
-        "soru": "Popüler psikoloji metinleri, genellikle belleği (hafızayı) geçmişi kaydeden bir video kamera \nveya bir bilgisayarın sabit diski gibi sunar. Bu metafor, belleğin değişmez, sabit ve doğru bir kayıt \ncihazı olduğu yanılsamasını yaratır. Oysa modern sinirbilim ve bilişsel psikoloji araştırmaları, \nbelleğin bu kadar pasif bir depolama sistemi olmadığını, tam aksine \"yeniden inşa\" edilen \n(rekonstrüktif) bir süreç olduğunu ortaya koymaktadır. Bir anıyı hatırladığımızda, o anıyı ilk günkü \ngibi depodan çağırmayız; o anıyı mevcut duygularımız, yeni öğrendiklerimiz ve o anki bağlamımız \nçerçevesinde aktif olarak yeniden kurarız. Her hatırlama eylemi, aslında bir \"yeniden yazma\" /neylemidir. Bu yüzden tanık ifadeleri şaşırtıcı derecede yanıltıcı olabilir ve iki kardeş aynı olayı \ntamamen farklı şekillerde hatırlayabilir. Belleğimizin amacı bize geçmişin kusursuz bir kaydını \nsunmak değil, yaşadıklarımızdan anlamlı bir kimlik ve tutarlı bir yaşam öyküsü oluşturmamıza \nyardımcı olmaktır.\nBu parçadan bellek (hafıza) ile ilgili çıkarılabilecek en kapsamlı yargı aşağıdakilerden \nhangisidir?",
+        "soru": "Popüler psikoloji metinleri, genellikle belleği (hafızayı) geçmişi kaydeden bir video kamera\nveya bir bilgisayarın sabit diski gibi sunar. Bu metafor, belleğin değişmez, sabit ve doğru bir kayıt\ncihazı olduğu yanılsamasını yaratır. Oysa modern sinirbilim ve bilişsel psikoloji araştırmaları,\nbelleğin bu kadar pasif bir depolama sistemi olmadığını, tam aksine \"yeniden inşa\" edilen\n(rekonstrüktif) bir süreç olduğunu ortaya koymaktadır. Bir anıyı hatırladığımızda, o anıyı ilk günkü\ngibi depodan çağırmayız; o anıyı mevcut duygularımız, yeni öğrendiklerimiz ve o anki bağlamımız\nçerçevesinde aktif olarak yeniden kurarız. Her hatırlama eylemi, aslında bir \"yeniden \nyazma\"eylemidir. Bu yüzden tanık ifadeleri şaşırtıcı derecede yanıltıcı olabilir ve iki kardeş aynı \nolayı\ntamamen farklı şekillerde hatırlayabilir. Belleğimizin amacı bize geçmişin kusursuz bir kaydını\nsunmak değil, yaşadıklarımızdan anlamlı bir kimlik ve tutarlı bir yaşam öyküsü oluşturmamıza\nyardımcı olmaktır.\nBu parçadan bellek (hafıza) ile ilgili çıkarılabilecek en kapsamlı yargı aşağıdakilerden\nhangisidir?",
         "secenekler": {
-            "A": "Bellek, yaşanan olayları hiçbir değişikliğe uğratmadan saklayan güvenilir bir depodur.",
-            "B": "Belleğin asıl işlevi, geçmişi mükemmel bir doğrulukla kaydetmekten ziyade, mevcut kimliğimizi \ndestekleyecek şekilde yeniden organize etmektir.",
-            "C": "İki insanın aynı olayı farklı hatırlaması, bilişsel\nbir bozukluğun göstergesidir.",
-            "D": "Popüler psikoloji metinleri, sinirbilim verilerinden daha doğru \nbellek tanımlamaları sunmaktadır. E) Tanık ifadelerinin yanıltıcı olması, belleğin pasif bir depolama\nsistemi olmasından kaynaklanır./n"
+            "A": "Bellek, yaşanan olayları hiçbir değişikliğe uğratmadan saklayan güvenilir bir depodur. B)\nBelleğin asıl işlevi, geçmişi mükemmel bir doğrulukla kaydetmekten ziyade, mevcut kimliğimizi\ndestekleyecek şekilde yeniden organize etmektir. C) İki insanın aynı olayı farklı hatırlaması, bilişsel\nbir bozukluğun göstergesidir. D) Popüler psikoloji metinleri, sinirbilim verilerinden daha doğru\nbellek tanımlamaları sunmaktadır. E) Tanık ifadelerinin yanıltıcı olması, belleğin pasif bir depolama\nsistemi olmasından kaynaklanır."
         },
-        "cevap": null
-    },
-    {
-        "id": 1,
-        "soru": "Aşağıdaki cümlelerin hangisinde \"ünsüz benzeşmesi\" (sertleşmesi) kuralına uymamaktan \nkaynaklanan bir yazım yanlışı vardır?",
-        "secenekler": {
-            "A": "Çocuk, annesinin arkasından sessizce bakakaldı.",
-            "B": "Dün akşamki yemekte bize çok samimi \ndavrandı.",
-            "C": "Proje sunumunu ayın 15'inde yapacakmış.",
-            "D": "Bu yokuşu çıkmak gerçekten çok \nzahmetliydi. E) Aldığı kitapcıkları özenle çantasına yerleştirdi."
-        },
-        "cevap": null
-    },
-    {
-        "id": 2,
-        "soru": "Aşağıdaki cümlelerin hangisinde \"ki\"nin yazımıyla ilgili bir yanlışlık yapılmıştır?",
-        "secenekler": {
-            "A": "Mademki gelmeyecektin, neden bana haber vermedin?",
-            "B": "Evdeki hesap çarşıya uymayınca \nmorali bozuldu.",
-            "C": "Bahçedeki çiçekler o kadar güzeldi ki insan bakmaya doyamıyordu.",
-            "D": "Öyle bir \nan gelirki ne yapacağını bilemezsin. E) Seninki yine ortalığı karıştırmış anlaşılan."
-        },
-        "cevap": null
-    },
-    {
-        "id": 3,
-        "soru": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı vardır?",
-        "secenekler": {
-            "A": "Herhangi bir sorunla karşılaşırsanız bizi arayın.",
-            "B": "Yıllar sonra doğduğu kasabaya, Kuzey Batı \nAnadolu'ya dönmüştü.",
-            "C": "Türk Dil Kurumunun son yayımladığı sözlüğü inceledim.",
-            "D": "Olan biteni \nayakta bir bir anlattı. E) Bu olayın onu terk ettiğin için yaşandığını sanmıyorum."
-        },
-        "cevap": null
-    },
-    {
-        "id": 4,
-        "soru": "Aşağıdaki cümlelerin hangisinde virgül (,) diğerlerinden farklı bir görevde kullanılmıştır?",
-        "secenekler": {
-            "A": "Akşam yemeğini hazırladı, sofrayı kurdu, çocuklarını beklemeye başladı.",
-            "B": "Genç adam, kadının\nsöylediklerini sessizce dinledi.",
-            "C": "Rüzgâr uğulduyor, yağmur şiddetle yağıyor, şimşekler çakıyordu.",
-            "D": "Evi temizledi, ütüyü yaptı, alışverişe çıktı. E) Odaya girdi, paltosunu astı, koltuğa oturdu."
-        },
-        "cevap": null
-    },
-    {
-        "id": 5,
-        "soru": "(I) Yeni bir şehir, yeni bir hayat demekti onun için. (II) Geçmişin izlerini silmek, her şeye \nyeniden başlamak istiyordu. (III) Bu yüzden, kimseye haber vermeden küçük bir sahil kasabasına \ntaşındı. (IV) Burada insanlar birbirini tanıyor, herkes birbirine yardım ediyordu. (V) Kısa sürede bu \nsıcak ortama alıştı ve kendini buraya ait hissetti.\nBu parçada numaralanmış cümlelerle ilgili aşağıdakilerden hangisi yanlıştır?",
-        "secenekler": {
-            "A": "I. cümle, isim cümlesidir.",
-            "B": "II. cümle, içinde fiilimsi bulunan bir cümledir.",
-            "C": "III. cümle, devrik\nbir cümledir.",
-            "D": "IV . cümle, sıralı bir cümledir. E) V . cümle, yapısına göre basit bir cümledir."
-        },
-        "cevap": null
-    },
-    {
-        "id": 6,
-        "soru": "Aşağıdaki cümlelerin hangisinde \"adlaşmış sıfat\" kullanılmıştır?",
-        "secenekler": {
-            "A": "Eski eşyaları çatı katındaki sandığa kaldırdı.",
-            "B": "Yaralı, sedyeyle hastanenin acil servisine \ngötürüldü.",
-            "C": "Kırık cam parçaları etrafa saçılmıştı.",
-            "D": "Çalışkan insanlar her zaman hedeflerine \nulaşır. E) Yazar, son romanında akıcı bir dil kullanmış."
-        },
-        "cevap": null
-    },
-    {
-        "id": 7,
-        "soru": "Aşağıdaki cümlelerin hangisinde altı çizili sözcük, kökünün türü bakımından diğerlerinden \nfarklıdır?",
-        "secenekler": {
-            "A": "Konferansın sonunda dinleyicilerin sorularını yanıtladı.",
-            "B": "Gökyüzü aniden karararak şiddetli \nbir yağmur başladı.",
-            "C": "Yaşadığı acılar onu olgunlaştırmıştı.",
-            "D": "İki ülke arasında önemli bir \nantlaşma imzalandı. E) Bahçedeki kurumuş otları temizlemek gerekiyordu."
-        },
-        "cevap": null
-    },
-    {
-        "id": 8,
-        "soru": "Aşağıdaki cümlelerin hangisi özne-yüklem ilişkisi (çatı) bakımından diğerlerinden \nfarklıdır?",
-        "secenekler": {
-            "A": "Toplantıda önemli kararlar alındı.",
-            "B": "Yollar, belediye ekiplerince sabaha karşı temizlendi.",
-            "C": "Kaybolan cüzdan, güvenlik görevlisi tarafından bulundu.",
-            "D": "Depremzedeler için acil yardım \nçadırları kuruldu. E) Çocuk, yere düşen oyuncağına üzüntüyle bakındı./n"
-        },
-        "cevap": null
-    },
-    {
-        "id": 9,
-        "soru": "Aşağıdaki cümlelerin hangisinde \"için\" edatı cümleye \"amaç\" anlamı katmıştır?",
-        "secenekler": {
-            "A": "Yağmur yağdığı için pikniği ertelemek zorunda kaldık.",
-            "B": "Sınavı kazanmak için gecesini \ngündüzüne kattı.",
-            "C": "Bu kadar küçük bir hediye için bana teşekkür etmene gerek yok.",
-            "D": "Benim için \nbu konunun ne kadar önemli olduğunu biliyorsun. E) O hasta olduğu için bugün işe gelemedi."
-        },
-        "cevap": null
-    },
-    {
-        "id": 10,
-        "soru": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
-        "secenekler": {
-            "A": "Ekonomik kriz, sadece bizi değil, tüm dünyayı etkiledi.",
-            "B": "Bu sorunu çözmek için herkesin \ngörüşüne saygı duyulmalı ve dinlenmelidir.",
-            "C": "Yazarın dili oldukça ağır, bu yüzden anlaşılması güç \noluyor.",
-            "D": "Başarılı olmak istiyorsan düzenli ve planlı çalışmalısın. E) Ne sen beni anladın ne de ben\nseni anlatabildim."
-        },
-        "cevap": null
-    },
-    {
-        "id": 11,
-        "soru": "Edebiyat, hayatın çamurlu yollarında yürürken ayağımıza bulaşan tozu toprağı estetik bir dille \ntemizleme sanatıdır. O, gerçeği ---- bir ayna değil, gerçeği yeniden ---- bir potadır.\nBu parçada boş bırakılan yerlere düşüncenin akışına göre sırasıyla aşağıdakilerden hangileri \ngetirilmelidir?",
-        "secenekler": {
-            "A": "yansıtan - şekillendiren",
-            "B": "gösteren - unutturan",
-            "C": "gizleyen - ortaya çıkaran",
-            "D": "değiştiren - \nsavunan E) anlatan - özetleyen"
-        },
-        "cevap": null
-    },
-    {
-        "id": 12,
-        "soru": "Aşağıdaki cümlelerin hangisi kanıtlanabilirlik (nesnellik-öznellik) açısından diğerlerinden \nfarklıdır?",
-        "secenekler": {
-            "A": "Yazarın son romanı, 300 sayfadan oluşuyor ve dört bölüm halinde tasarlanmış.",
-            "B": "Şairin bu \netkileyici şiiri, okuyucuyu derinden sarsıyor.",
-            "C": "Türkiye'nin en yüksek dağı olan Ağrı Dağı, Doğu \nAnadolu Bölgesi'ndedir.",
-            "D": "Film,"
-        },
-        "cevap": null
-    },
-    {
-        "id": 13,
-        "soru": "yüzyıl İngiltere'sinde geçen bir aşk hikâyesini konu alıyor. E) \nİstatistiklere göre, son on yılda okur-yazar oranı %15 artmıştır.",
-        "secenekler": {},
-        "cevap": null
-    },
-    {
-        "id": 14,
-        "soru": "(I) Şehirleşmeyle birlikte doğadan kopuşumuz hızlandı. (II) Artık gökyüzünü görmek için \nbinaların arasından küçük bir boşluk arıyoruz. (III) Toprağa basmanın, bir ağaca dokunmanın \niyileştirici gücünü unuttuk. (IV) Oysa doğa, insanın fabrika ayarlarına dönmesi için en güçlü şifadır.\n(V) Psikologlar, doğada geçirilen zamanın stresi azalttığını ve yaratıcılığı artırdığını belirtiyor. (VI) \nBu nedenle, fırsat buldukça kendimizi yeşilin kucağına atmalıyız.\nBu parça iki paragrafa ayrılmak istense ikinci paragraf numaralanmış cümlelerin hangisiyle \nbaşlar?",
-        "secenekler": {
-            "A": "II",
-            "B": "III",
-            "C": "IV",
-            "D": "V E) VI"
-        },
-        "cevap": null
-    },
-    {
-        "id": 15,
-        "soru": "(I) Yapay zekâ, günümüz teknolojisinin en çok tartışılan konularından biri. (II) Kimileri onu \ninsanlığın sonunu getirecek bir tehdit olarak görürken, kimileri de yaşam kalitemizi artıracak bir \nfırsat olarak değerlendiriyor. (III) Tarih boyunca her teknolojik yenilik, benzer kaygıları ve umutları\nberaberinde getirmiştir. (IV) Yapay zekânın öğrenme hızı, insan kapasitesinin çok üzerindedir. (V) \nÖnemli olan, bu gücü nasıl yönlendireceğimizi belirlemek ve etik kuralları sağlam bir temele \noturtmaktır.\nBu parçada numaralanmış cümlelerden hangisi düşüncenin akışını bozmaktadır?",
-        "secenekler": {
-            "A": "I",
-            "B": "II",
-            "C": "III",
-            "D": "IV E) V"
-        },
-        "cevap": null
-    },
-    {
-        "id": 16,
-        "soru": "Dijitalleşme, bilgiye erişimi inanılmaz ölçüde kolaylaştırdı. Artık bir kütüphanede haftalarca \naraştırma yapmayı gerektirecek bilgilere saniyeler içinde ulaşabiliyoruz. Ancak bu kolaylık, bir /n\"bilgi obezitesi\" sorununu da beraberinde getirdi. Bilgiyi tüketiyor ama sindiremiyoruz. Bilgiyi \nderinlemesine analiz etmek, eleştirel bir süzgeçten geçirmek yerine, yüzeysel bir şekilde \"tıklayıp \ngeçiyoruz\". Bu durum, bilgeliğe giden yolu uzatıyor; çünkü bilgelik, çok bilmek değil, bilineni \nözümsemektir.\nBu parçada \"dijitalleşme\" ile ilgili asıl vurgulanmak istenen aşağıdakilerden hangisidir?",
-        "secenekler": {
-            "A": "Bilgiye erişim hızının artmasının olumlu sonuçları",
-            "B": "Geleneksel kütüphanecilik anlayışını \ndeğiştirdiği",
-            "C": "Bilgiyi derinlemesine işlemeden yüzeysel tüketmeye yol açması",
-            "D": "İnsanlar \narasındaki bilgi eşitsizliğini azalttığı E) Bilgi obezitesinin psikolojik sorunlara neden olduğu"
-        },
-        "cevap": null
-    },
-    {
-        "id": 17,
-        "soru": "Aynı parçaya göre, \"bilgelik\" aşağıdakilerden hangisiyle tanımlanmıştır?",
-        "secenekler": {
-            "A": "Çok fazla bilgiye sahip olmak",
-            "B": "Bilgiye hızlıca ulaşabilmek",
-            "C": "Teknolojik gelişmeleri yakından\ntakip etmek",
-            "D": "Edinilen bilgiyi içselleştirmek ve anlamlandırmak E) Bilgiyi eleştirmeden kabul \netmek\nİki Şehrin Hikâyesi\", Charles Dickens'ın belki de en bilinen eseridir. Roman, Fransız Devrimi \nsırasında Paris ve Londra'da geçer. Dickens, bu eserinde devrimin yarattığı kaosu, toplumsal \nadaletsizliği ve bireylerin bu çalkantılı dönemdeki fedakârlıklarını ustaca işler. Romanın \"En iyi \nzamanlardı, en kötü zamanlardı...\" diye başlayan açılış cümlesi, dönemin çelişkilerini özetler \nniteliktedir. Eser, tarihsel bir arka planı kullanmasına rağmen, aslında zamanı aşan temalara; \nsevgiye, nefrete, fedakârlığa ve yeniden doğuşa odaklanır. Bu yüzden, yazıldığı tarihten yüz yıldan \nfazla geçmiş olmasına rağmen güncelliğini korumaktadır."
-        },
-        "cevap": null
-    },
-    {
-        "id": 18,
-        "soru": "Bu parçadan \"İki Şehrin Hikâyesi\" ile ilgili aşağıdakilerden hangisine ulaşılamaz?",
-        "secenekler": {
-            "A": "Hangi tarihsel olayı fon olarak kullandığına",
-            "B": "Yazarının en başarılı eseri olduğuna",
-            "C": "Evrensel \nkonuları ele aldığına",
-            "D": "İçeriğini özetleyen meşhur bir açılış cümlesi olduğuna E) Farklı iki şehirde \ngeçtiğine"
-        },
-        "cevap": null
-    },
-    {
-        "id": 19,
-        "soru": "Bu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
-        "secenekler": {
-            "A": "Açıklama",
-            "B": "Tartışma",
-            "C": "Betimleme",
-            "D": "Öyküleme E) Tanık Gösterme"
-        },
-        "cevap": null
-    },
-    {
-        "id": 20,
-        "soru": "(I) Sabahın erken saatleri, zihnimin en berrak olduğu anlardır. (II) Güneşin doğuşunu izlerken, \ngünün getireceği telaştan uzak bir sükûnet bulurum. (III) Bir fincan kahve eşliğinde okuduğum \nkitaplar, bana farklı dünyaların kapılarını aralar. (IV) Gün içinde ise işlerin yoğunluğu bu sükûneti \nalıp götürür. (V) Bu yüzden, sabah ritüellerimi hiç kimsenin bozmasına izin vermem.\nBu parçada numaralanmış cümlelerin hangisinde \"neden-sonuç\" ilişkisi vardır?",
-        "secenekler": {
-            "A": "I",
-            "B": "II",
-            "C": "III",
-            "D": "IV E) V"
-        },
-        "cevap": null
-    },
-    {
-        "id": 21,
-        "soru": "İnternetin ilk yıllarında, küresel bir köy yaratacağı ve farklı kültürler arasındaki anlayışı \nartıracağı yönünde yaygın bir iyimserlik hâkimdi. Bilgiye erişimin demokratikleşmesi, sansürün \naşılması ve insanların coğrafi sınırları aşan diyaloglar kurması bekleniyordu. Ancak, geldiğimiz \nnoktada bu iyimserliğin büyük ölçüde sarsıldığını görüyoruz. Özellikle sosyal medya \nplatformlarının yükselişiyle birlikte, algoritmik olarak yönetilen \"yankı odaları\" ve \"filtre balonları\"\nortaya çıktı. Bu yapılar, kullanıcıların mevcut inançlarını pekiştiren içerikleri sürekli olarak \nkarşılarına çıkarırken, farklı veya karşıt görüşleri görünmez kılıyor. Bireyler, kendi düşüncelerinin \nevrensel olarak kabul gördüğü bir yanılsama içine giriyor ve bu durum, toplumsal polarizasyonun /n(kutuplaşmanın) tehlikeli bir şekilde artmasına zemin hazırlıyor. Bilgiye erişimimiz arttı, ancak bu \nbilgiyi işleme ve farklı perspektiflerle diyalog kurma becerimiz aynı oranda gelişmedi; aksine, \nteknoloji bizi dijital kabilelere ayırdı.\nBu parçada dijital medya ve algoritmalarla ilgili asıl vurgulanmak istenen aşağıdakilerden \nhangisidir?",
-        "secenekler": {
-            "A": "İnternetin, yaratıcılarının hedeflediği küresel anlayış hedefine ulaştığı",
-            "B": "Bilgiye erişimdeki \nkolaylığın, toplumsal eğitim seviyesini yükselttiği",
-            "C": "Sosyal medyanın, bireyleri farklı görüşlerden \nizole ederek toplumsal kutuplaşmayı derinleştirdiği",
-            "D": "Filtre balonlarının, kullanıcıların eleştirel \ndüşünme becerilerini geliştirmelerine yardımcı olduğu E) Sansürü aşma konusunda internetin hâlâ \nen etkili araç olduğu\n("
-        },
-        "cevap": null
-    },
-    {
-        "id": 22,
-        "soru": "ve",
-        "secenekler": {},
-        "cevap": null
-    },
-    {
-        "id": 23,
-        "soru": "soruları aşağıdaki parçaya göre cevaplayınız.)\nRomanı, basitçe \"yaşanmış ya da yaşanması mümkün olayları anlatan bir tür\" olarak tanımlamak, \nonun gücünü ve felsefi derinliğini göz ardı etmektir. Roman, yalnızca bir hikâye anlatıcısı değil, \naynı zamanda bir bilgi biçimidir; ancak bu bilgi, tarihsel anlatının sunduğu olgusal doğruluktan \nfarklıdır. Tarih bize \"ne olduğunu\" söylerken, roman bize \"ne olabileceğini\" ve \"olana karşı ne \nhissedilebileceğini\" gösterir. O, insan varoluşunun karmaşık ve çelişkili doğasını keşfetmek için bir \nlaboratuvardır. Bir karakterin iç dünyasına girdiğimizde, kendi hayatımızda karşılaşmadığımız \nahlaki ikilemlerle yüzleşir, başka türlü edinemeyeceğimiz bir empati yeteneği geliştiririz. \nDolayısıyla romanın hakikati, istatistiksel verilerde veya kronolojik sıralamalarda değil, bireyin en \nmahrem deneyimlerinin evrenselleştirilmesinde yatar. O, gerçeği taklit etmez; gerçeğin daha derin \nbir katmanını, yani \"insani gerçeği\" yeniden inşa eder.",
-        "secenekler": {},
-        "cevap": null
-    },
-    {
-        "id": 24,
-        "soru": "Bu parçadan romanla ilgili aşağıdakilerden hangisi çıkarılamaz?",
-        "secenekler": {
-            "A": "İnsanın varoluşsal durumlarını incelemek için bir araç olduğu",
-            "B": "Okurda empati duygusunun \ngelişmesine katkı sağladığı",
-            "C": "Olayları, tarihsel bir metnin bağlı olduğu gerçeklik kaygısıyla \naktardığı",
-            "D": "Yaşanmış olaylardan çok, yaşanabilecek olasılıklar üzerinde durduğu E) Felsefi bir \nderinliğe sahip olan özel bir bilgi biçimi olduğu"
-        },
-        "cevap": null
-    },
-    {
-        "id": 25,
-        "soru": "Bu parçaya göre romanı \"tarihsel anlatı\"dan ayıran temel özellik aşağıdakilerden \nhangisidir?",
-        "secenekler": {
-            "A": "Olgusal doğruluğa bağlı kalmak yerine, insani deneyimin özüne ve olasılıklara odaklanması",
-            "B": "Geçmişte yaşanmış olayları kronolojik bir sırayla sunması",
-            "C": "Karakterlerin iç dünyasını \nyansıtmaktan bilinçli olarak kaçınması",
-            "D": "İstatistiksel verilerden ve kanıtlanabilir bilgilerden \nyararlanması E) Okuyucuya ahlaki dersler verme amacı gütmesi"
-        },
-        "cevap": null
-    },
-    {
-        "id": 26,
-        "soru": "Popüler psikoloji metinleri, genellikle belleği (hafızayı) geçmişi kaydeden bir video kamera \nveya bir bilgisayarın sabit diski gibi sunar. Bu metafor, belleğin değişmez, sabit ve doğru bir kayıt \ncihazı olduğu yanılsamasını yaratır. Oysa modern sinirbilim ve bilişsel psikoloji araştırmaları, \nbelleğin bu kadar pasif bir depolama sistemi olmadığını, tam aksine \"yeniden inşa\" edilen \n(rekonstrüktif) bir süreç olduğunu ortaya koymaktadır. Bir anıyı hatırladığımızda, o anıyı ilk günkü \ngibi depodan çağırmayız; o anıyı mevcut duygularımız, yeni öğrendiklerimiz ve o anki bağlamımız \nçerçevesinde aktif olarak yeniden kurarız. Her hatırlama eylemi, aslında bir \"yeniden yazma\" /neylemidir. Bu yüzden tanık ifadeleri şaşırtıcı derecede yanıltıcı olabilir ve iki kardeş aynı olayı \ntamamen farklı şekillerde hatırlayabilir. Belleğimizin amacı bize geçmişin kusursuz bir kaydını \nsunmak değil, yaşadıklarımızdan anlamlı bir kimlik ve tutarlı bir yaşam öyküsü oluşturmamıza \nyardımcı olmaktır.\nBu parçadan bellek (hafıza) ile ilgili çıkarılabilecek en kapsamlı yargı aşağıdakilerden \nhangisidir?",
-        "secenekler": {
-            "A": "Bellek, yaşanan olayları hiçbir değişikliğe uğratmadan saklayan güvenilir bir depodur.",
-            "B": "Belleğin asıl işlevi, geçmişi mükemmel bir doğrulukla kaydetmekten ziyade, mevcut kimliğimizi \ndestekleyecek şekilde yeniden organize etmektir.",
-            "C": "İki insanın aynı olayı farklı hatırlaması, bilişsel\nbir bozukluğun göstergesidir.",
-            "D": "Popüler psikoloji metinleri, sinirbilim verilerinden daha doğru \nbellek tanımlamaları sunmaktadır. E) Tanık ifadelerinin yanıltıcı olması, belleğin pasif bir depolama\nsistemi olmasından kaynaklanır./n"
-        },
-        "cevap": null
+        "cevap": "B"
     }
 ]
