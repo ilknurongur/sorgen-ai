@@ -1,31 +1,39 @@
 import { useState, useEffect } from 'react';
-import { signInAnonymously, signInWithCustomToken, onAuthStateChanged } from 'firebase/auth';
+import { onAuthStateChanged, signInAnonymously } from 'firebase/auth';
 import { auth } from '../firebase/config';
 
 /**
- * useAuth — Firebase anonim / custom token auth yönetimi.
- * Geri döndürür: { user }
+ * useAuth — Kullanıcı oturum yönetimi.
+ * Firebase yoksa "Misafir" kullanıcı döndürür.
  */
 export const useAuth = () => {
   const [user, setUser] = useState(null);
+  const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    const initAuth = async () => {
-      try {
-        if (typeof __initial_auth_token !== 'undefined' && __initial_auth_token) {
-          await signInWithCustomToken(auth, __initial_auth_token);
-        } else {
-          await signInAnonymously(auth);
-        }
-      } catch (err) {
-        console.error('Auth hatası:', err);
-      }
-    };
+    // Eğer Firebase Auth başlatılamadıysa (Render vb.) sahte kullanıcı oluştur
+    if (!auth) {
+      console.log('Auth: Firebase Auth bulunamadı, Misafir modu aktif.');
+      setUser({ uid: 'guest-user', isAnonymous: true, displayName: 'Misafir Kullanıcı' });
+      setLoading(false);
+      return;
+    }
 
-    initAuth();
-    const unsubscribe = onAuthStateChanged(auth, setUser);
-    return () => unsubscribe();
+    const unsub = onAuthStateChanged(auth, async (u) => {
+      if (!u) {
+        try {
+          await signInAnonymously(auth);
+        } catch (e) {
+          console.error('Anonim giriş hatası:', e);
+        }
+      } else {
+        setUser(u);
+      }
+      setLoading(false);
+    });
+
+    return () => unsub();
   }, []);
 
-  return { user };
+  return { user, loading };
 };
