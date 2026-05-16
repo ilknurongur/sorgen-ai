@@ -1,48 +1,37 @@
-import { initializeApp } from 'firebase/app';
+import { initializeApp, getApps } from 'firebase/app';
 import { getFirestore } from 'firebase/firestore';
 import { getAuth } from 'firebase/auth';
 
-// Firebase yapılandırması — Canvas ortamında __firebase_config değişkeninden,
-// yerel geliştirmede .env dosyasından okunur.
-let firebaseConfig;
+/**
+ * Firebase Yapılandırması
+ * Not: LocalStorage moduna geçildiğinden, bu anahtarlar boş olsa bile uygulama çökmez.
+ */
+const firebaseConfig = {
+  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
+  authDomain: import.meta.env.VITE_FIREBASE_AUTH_DOMAIN,
+  projectId: import.meta.env.VITE_FIREBASE_PROJECT_ID,
+  storageBucket: import.meta.env.VITE_FIREBASE_STORAGE_BUCKET,
+  messagingSenderId: import.meta.env.VITE_FIREBASE_MESSAGING_SENDER_ID,
+  appId: import.meta.env.VITE_FIREBASE_APP_ID,
+};
 
-// Canvas / Firebase Studio ortamı
-if (typeof __firebase_config !== 'undefined' && __firebase_config) {
+export const GEMINI_API_KEY = import.meta.env.VITE_GEMINI_API_KEY;
+export const APP_ID = 'kpss-soru-matik-pro';
+
+let app, db, auth;
+
+// Sadece anahtarlar varsa Firebase'i başlat, yoksa uygulamayı çökertme
+if (firebaseConfig.apiKey && firebaseConfig.apiKey !== 'YOUR_API_KEY') {
   try {
-    firebaseConfig = JSON.parse(__firebase_config);
-  } catch (e) {
-    console.error('__firebase_config parse hatası:', e);
-    firebaseConfig = null;
+    app = getApps().length === 0 ? initializeApp(firebaseConfig) : getApps()[0];
+    db = getFirestore(app);
+    auth = getAuth(app);
+    console.log('Firebase başarıyla başlatıldı.');
+  } catch (error) {
+    console.warn('Firebase başlatılamadı, uygulama Yerel Modda çalışacak.');
   }
+} else {
+  console.log('Firebase yapılandırması eksik, uygulama Yerel Modda (LocalStorage) çalışıyor.');
 }
 
-// .env fallback
-if (!firebaseConfig || !firebaseConfig.apiKey) {
-  const apiKey = import.meta.env.VITE_FIREBASE_API_KEY;
-  if (!apiKey || apiKey.startsWith('buraya')) {
-    console.error(
-      '🔴 Firebase yapılandırması eksik!\n' +
-      '.env dosyanızdaki VITE_FIREBASE_* değişkenlerini doldurun.\n' +
-      'Bakınız: https://console.firebase.google.com → Proje Ayarları → Uygulamalar'
-    );
-  }
-  firebaseConfig = {
-    apiKey:            import.meta.env.VITE_FIREBASE_API_KEY            || '',
-    authDomain:        import.meta.env.VITE_FIREBASE_AUTH_DOMAIN        || '',
-    projectId:         import.meta.env.VITE_FIREBASE_PROJECT_ID         || '',
-    storageBucket:     import.meta.env.VITE_FIREBASE_STORAGE_BUCKET     || '',
-    messagingSenderId: import.meta.env.VITE_FIREBASE_MESSAGING_SENDER_ID || '',
-    appId:             import.meta.env.VITE_FIREBASE_APP_ID             || '',
-  };
-}
-
-export const app = initializeApp(firebaseConfig);
-export const auth = getAuth(app);
-export const db = getFirestore(app);
-
-// Uygulama koleksiyon kimliği
-export const APP_ID =
-  typeof __app_id !== 'undefined' ? __app_id : 'kpss-soru-matik-pro';
-
-// Gemini API anahtarı — ortam değişkeninden gelir, boş bırakılırsa Canvas sağlar.
-export const GEMINI_API_KEY = import.meta.env.VITE_GEMINI_API_KEY || '';
+export { db, auth };
