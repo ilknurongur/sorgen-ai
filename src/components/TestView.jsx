@@ -67,8 +67,7 @@ const TestView = ({
       {loading ? (
         <div className="py-20 text-center">
           <div className="w-12 h-12 border-4 border-indigo-100 border-t-indigo-600 rounded-full animate-spin mx-auto mb-4" />
-          <p className="text-slate-700 font-semibold mb-1">Sorular hazırlanıyor...</p>
-          <p className="text-slate-400 text-sm animate-pulse">Yapay zeka soruları üretiyor, lütfen bekleyin (30–60 sn)</p>
+          <p className="text-slate-700 font-semibold animate-pulse">Sorular üretiliyor, lütfen bekleyin...</p>
         </div>
       ) : error ? (
         <div className="py-16 text-center text-rose-500 font-semibold">{error}</div>
